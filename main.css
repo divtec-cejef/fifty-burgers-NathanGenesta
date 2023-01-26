@@ -1,0 +1,14 @@
+header{
+    background-color: #000000;
+    text-align: center;
+    margin-inside: 10px;
+
+}
+header img{
+    max-height: 160px;
+}
+main{
+    margin-inside: 20px;
+    margin-outside: 0 0 auto auto;
+    width: 600px;
+}
